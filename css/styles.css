@@ -80,7 +80,7 @@ hr {
 }
 
 .card {
-  /* height: 20rem; */
+  height: 23rem;
   background-color: #EAF6F6;
   color: #40514E;
   margin: 10px;
@@ -98,8 +98,8 @@ hr {
 }
 
 .card-body img{
-  width: 20vw;
-  height: 20vh;
+  width: 20rem;
+  height: 8rem;
 }
 
 .project-button {
